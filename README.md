@@ -1,5 +1,5 @@
 # Lightnote
-A lightweight text editor, made using Python.
+A lightweight text editor, made using Python. Now archived and no longer under development.
 
 ## How to use
 1. Download from the Lightnote website
